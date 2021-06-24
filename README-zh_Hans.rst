@@ -55,7 +55,7 @@ OpenCore EFI for Asus ROG STRIX B350-F GAMING
 
 显卡
 ````
-讯景 RX 550 无法启动到图形界面，可以通过刷 `蓝宝石 PULSE RX 550 640SP 的 BIOS <https://www.techpowerup.com/vgabios/197718/sapphire-rx550-2048-171013>`_ 解决。
+讯景 RX 550 无法启动到图形界面，可以通过刷 `Powercolor RX 550 2048 MB BIOS <https://www.techpowerup.com/vgabios/209970/209970>`_ 解决。
 
 `讯景 RX 550 原 BIOS <https://www.techpowerup.com/vgabios/229141/229141>`_。
 

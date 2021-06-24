@@ -55,7 +55,7 @@ Pre-requisits
 
 Graphics Card
 `````````````
-The XFX RX 550 dosn't boot into the graphical interface and can be solved by flashing the `Sapphire PULSE RX 550 640SP BIOS <https://www.techpowerup.com/vgabios/197718/sapphire-rx550-2048-171013>`_.
+The XFX RX 550 dosn't boot into the graphical interface and can be solved by flashing the `Powercolor RX 550 2048 MB BIOS <https://www.techpowerup.com/vgabios/209970/209970>`_.
 
 `XFX RX 550 original BIOS <https://www.techpowerup.com/vgabios/229141/229141>`_.
 
