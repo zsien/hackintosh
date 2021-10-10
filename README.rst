@@ -29,29 +29,29 @@ Components
 +---------------------------------------------------+-----------------------+-----------------------+
 |Components                                         |Version                |Latest Version         |
 +===================================================+=======================+=======================+
-|`OpenCore`_                                        |0.6.9                  ||OpenCore|_            |
+|`OpenCore`_                                        |0.7.4                  ||OpenCore|_            |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`HfsPlus.efi`_                                     |Date 2021-03-01 GMT+8  |                       |
+|`HfsPlus.efi`_                                     |Date 2021-05-05 GMT+8  |                       |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`VirtualSMC`_                                      |1.2.3                  ||VirtualSMC|_          |
+|`VirtualSMC`_                                      |1.2.7                  ||VirtualSMC|_          |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`Lilu`_                                            |1.5.3                  ||Lilu|_                |
+|`Lilu`_                                            |1.5.6                  ||Lilu|_                |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`WhateverGreen`_                                   |1.4.9                  ||WhateverGreen|_       |
+|`WhateverGreen`_                                   |1.5.4                  ||WhateverGreen|_       |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`AppleALC`_                                        |1.6.0                  ||AppleALC|_            |
+|`AppleALC`_                                        |1.6.5                  ||AppleALC|_            |
 +---------------------------------------------------+-----------------------+-----------------------+
 |`SmallTreeIntel82576`_                             |1.3.0                  ||SmallTreeIntel82576|_ |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`AirportItlwm`_                                    |1.3.0                  ||AirportItlwm|_        |
+|`AirportItlwm`_                                    |2.0.0                  ||AirportItlwm|_        |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`AppleMCEReporterDisabler`_                        |1.0                    |                       |
+|`AppleMCEReporterDisabler`_                        |Date 2009-10-10 GMT+8  |                       |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`NVMeFix`_                                         |1.0.7                  ||NVMeFix|_             |
+|`NVMeFix`_                                         |1.0.9                  ||NVMeFix|_             |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`SMCAMDProcessor`_                                 |0.6.6                  ||SMCAMDProcessor|_     |
+|`SMCAMDProcessor`_                                 |0.7                    ||SMCAMDProcessor|_     |
 +---------------------------------------------------+-----------------------+-----------------------+
-|`RestrictEvents`_                                  |1.0.1                  ||RestrictEvents|_      |
+|`RestrictEvents`_                                  |1.0.5                  ||RestrictEvents|_      |
 +---------------------------------------------------+-----------------------+-----------------------+
 
 Pre-requisits
@@ -86,7 +86,7 @@ The XFX RX 550 dosn't boot into the graphical interface and can be solved by fla
 .. _AirportItlwm: https://github.com/OpenIntelWireless/itlwm
 .. |AirportItlwm| image:: https://shields.io/github/v/release/OpenIntelWireless/itlwm?sort=semver
 
-.. _AppleMCEReporterDisabler: https://github.com/AMD-OSX/AMD_Vanilla/blob/opencore/Extra/AppleMCEReporterDisabler.kext.zip
+.. _AppleMCEReporterDisabler: https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip
 
 .. _NVMeFix: https://github.com/acidanthera/NVMeFix
 .. |NVMeFix| image:: https://shields.io/github/v/release/acidanthera/NVMeFix?sort=semver
